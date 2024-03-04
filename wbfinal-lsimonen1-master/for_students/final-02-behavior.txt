@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. blue car driving
+2. dump truck dumping
+3. forklift lifting
+
+One behavior that is not simple:
+Not simple: excavator digging up stuff and dropping it off then digging again
+
+Animated Articulated Figure:
+Articulated: excavator digging and/or the dump truck dumping
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- crane turning
+- other car driving

@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. the tall blue building
+2. the store
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. dumptruck
+4. forklift
+5. car
+6. tunnel
+7. gray tall building
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- other apartment building
+- tree
+- brick pile/ road/ or dirt walls
+
+At least on of each type of object:
+Building/structure: store
+Vehicle: car
+Natural Element: tree
+
+Object loaded from a model file:
+Model: monkey that is on the store roof like a gargoyle 
+
+An object with a shader that you wrote:
+ShaderObj: the mud that the thing is digging up was colored with a shader that makes the cylinder brown
+
+Other Objects that you would like to note:
+brick pile/ road/ or dirt walls and or the sky box
