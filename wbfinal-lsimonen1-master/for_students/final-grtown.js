@@ -65,6 +65,6 @@ highlight("Crane-0");
 // build and run the UI
 // only after all the objects exist can we build the UI
 // @ts-ignore       // we're sticking a new thing into the world
-world.ui = new WorldUI(world);
+//world.ui = new WorldUI(world);
 // now make it go!
 world.go();
